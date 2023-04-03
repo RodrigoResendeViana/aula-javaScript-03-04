@@ -37,6 +37,8 @@ for(let i = 0; i<=10000 ; i++){
 
 let carros=["Gol","Fusca","HB20","Corsa"]
 
+//carro.length representa a quantidade de "coisas" no vetor carros
+
 for(let i=0 ; i < carros.length; i++){
     document.write(carros[i])
     document.write("<br><br>")
